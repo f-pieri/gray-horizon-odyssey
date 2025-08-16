@@ -2,21 +2,15 @@
 <img src="./screenshots/one.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
 
 ## What is this?
-The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
+Gray Horizon Odyssey is a fast-paced 2D infinite runner built in Unity, designed with custom assets, dynamic scoring, and multiple playable characters.
 
 ## Usage
 
-This feature is currently available across the following Chrome channels:
+Gray Horizon Odyssey is available to play on the following platforms:
 
-  &emsp;Canary – version 140.0.7339.2 (released August 5, 2025)
+  &emsp;🎮 [Newgrounds](https://www.newgrounds.com/portal/view/918786)
 
-  &emsp;Dev – version 140.0.7327.6 (released July 31, 2025)
-
-  &emsp;Beta – version 140.0.7339.16 (released August 13, 2025)
-
-  &emsp;Stable – version [insert version] (released [insert date])
-
-For usage within Chromium, check out the official [Chromium Docs](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
+  &emsp;🎮 [Itch.io](https://franco-pieri.itch.io/gray-horizon-odyssey)
 
 ## Screenshots
 <img src="./screenshots/two.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
