@@ -5,7 +5,6 @@
 The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
 
 ## Usage
-<img src="./screenshots/five.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
 
 This feature is currently available across the following Chrome channels:
 
@@ -22,7 +21,8 @@ For usage within Chromium, check out the official [Chromium Docs](https://chromi
 ## Screenshots
 <img src="./screenshots/two.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
 <img src="./screenshots/three.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
-<img src="./screenshots/fpur.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
+<img src="./screenshots/four.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
+<img src="./screenshots/five.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
 
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the license.
